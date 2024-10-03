@@ -2,7 +2,9 @@
 🚀 Aspiring DevOps Engineer | AWS Enthusiast | Tech Explorer
 
 🔧 Currently diving into AWS and DevOps practices.
+
 📚 Eager to learn and grow my skills in cloud computing and automation.
+
 💡 Passionate about building efficient workflows and optimizing processes.
 
 🌐 Check out my projects and learning journey below!
